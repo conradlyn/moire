@@ -1,10 +1,10 @@
 export const config = {
-  title: "Moire",
-  author: "Aeris",
+  title: "蒜鸟",
+  author: "Conrad",
   theme: "classic",
-  pageSize: 20,
+  pageSize: 10,
   utcOffset: 8,
-  description: "Sync your thoughts from Apple Notes by Shortcuts.",
-  keywords: "memo, thought, sync, apple notes, shortcuts, ios",
-  url: "https://moire.blog"
+  description: "蒜鸟，都不涌易",
+  keywords: "",
+  url: "https://www.zanian.vip"
 };
